@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, MYSQL, HTML, CSS, JavaScritp
 - 🌱 I’m currently learning Pythom Programming Language
 - 💞️ I’m looking to collaborate on a new project
-- 📫 You can contact me on 'eng.mohamedkhattab@gmail.com' or on WhatsApp wa.me/+201004802250
+- 📫 You can contact me on 'eng.mohamedkhattab@gmail.com' or on WhatsApp http://wa.me/+201004802250
 
 <!---
 MuKhattab/MuKhattab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
